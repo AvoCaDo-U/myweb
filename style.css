@@ -27,26 +27,22 @@ body {
 h1 {
     font-size: 60px;
     margin: 10px 0;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     font-size: 30px;
     color: #d0a251; /* Màu chữ của tiêu đề phụ */
     margin-bottom: 15px;
-    font-family: 'Times New Roman', Times, serif;
 }
 h5 {
     font-size: 18px;
     color: #000000; /* Màu chữ của tiêu đề phụ */
     margin-bottom: 15px;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 p {
     font-size: 18px;
     margin: auto;
-    font-family: 'Times New Roman', Times, serif;
 }
 
 .delegate-button {
